@@ -1,0 +1,11 @@
+Bootstrap: docker
+From: ubuntu:20.04
+
+%post
+	apt update && apt upgrade -y
+	apt install -y --no-install-recommends python3
+	apt install -y software-properties-common
+	add-apt-repository ppa:fenics-packages/fenics
+	apt install -y --no-install-recommends fenics
+	apt install -y python3-scipy python3-matplotlib python3-pandas python3-tqdm
+	apt -y clean
