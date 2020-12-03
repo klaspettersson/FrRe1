@@ -3,5 +3,5 @@
 ## Contributors
 Andrei Karzhou, Irina Pettersson, and Klas Pettersson
 
-# Paper
+## Paper
 arXiv: XXX.XXXX
