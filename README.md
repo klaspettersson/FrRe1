@@ -1,11 +1,7 @@
-# FrRe1
-Frequency response for a finite cylinder
+# Frequency response for a finite cylinder
 
-# Description
-Contributors:
-Andrei Karzhou
-Irina Pettersson
-Klas Pettersson
+## Contributors
+Andrei Karzhou, Irina Pettersson, and Klas Pettersson
 
 # Paper
 arXiv: XXX.XXXX
