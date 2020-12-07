@@ -13,7 +13,7 @@ def psi(mesh, ga, lambda_min, lambda_max, N=200, dN=50, Nfactor=20):
 	with constant Dirichlet harmonic load a part of the boundary
 	which is of positive (d-1)-dimensional measure.
 
-	The algorithm is described in arXiv: XXXX.XXXXX.
+	The algorithm is described in arXiv: 2012.02276.
 
 	Pre: The Fredholm alternative holds for the parameters.
 
