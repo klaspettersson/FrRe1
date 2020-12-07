@@ -4,4 +4,4 @@
 Andrei Karzhou, Irina Pettersson, and Klas Pettersson
 
 ## Paper
-arXiv: XXX.XXXX
+arXiv: 2012.02276
